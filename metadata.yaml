@@ -25,6 +25,8 @@ creator:
     - http://fr.wikipedia.org/wiki/%C3%89mile_Verhaeren
     - http://en.wikipedia.org/wiki/Emile_Verhaeren
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45467#The-Evening-Hours
 gutenberg_issued: '2014-04-24'
 gutenberg_type: Text
 identifiers:
